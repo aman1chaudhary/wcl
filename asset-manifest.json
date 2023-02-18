@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wcl/static/css/main.6cacac87.css",
-    "main.js": "/wcl/static/js/main.36f0070b.js",
+    "main.css": "/wcl/static/css/main.42fd1b8f.css",
+    "main.js": "/wcl/static/js/main.32ad781b.js",
     "static/media/empty.gif": "/wcl/static/media/empty.892e3c962daac6591a52.gif",
     "static/media/banner-1.png": "/wcl/static/media/banner-1.5e90ff12b0a8b2e883dc.png",
     "static/media/slideshow-7.png": "/wcl/static/media/slideshow-7.2164cc98a33e1e2bdce2.png",
@@ -9,14 +9,12 @@
     "static/media/slideshow-2.png": "/wcl/static/media/slideshow-2.3195ebc64b370fecf9ca.png",
     "static/media/geoportal-3.jpg": "/wcl/static/media/geoportal-3.bcb5709fd2e723622171.jpg",
     "static/media/geoportal-2.jpg": "/wcl/static/media/geoportal-2.409cf2d8a5267011f362.jpg",
-    "static/media/slideshow-3.png": "/wcl/static/media/slideshow-3.4612948d41c3f0461a02.png",
     "static/media/slideshow-5.png": "/wcl/static/media/slideshow-5.9ccfef5a95b3405872a3.png",
     "static/media/data-image-4.jpg": "/wcl/static/media/data-image-4.abcd6fd24490df882dd3.jpg",
     "static/media/logo-1.png": "/wcl/static/media/logo-1.3a507ec6000515746565.png",
     "static/media/slideshow-4.png": "/wcl/static/media/slideshow-4.329a12cd8644e01faf40.png",
     "static/media/data-image-3.jpg": "/wcl/static/media/data-image-3.09ac68b5ee54380c7e0c.jpg",
     "static/media/Anuj Prakash Kushwaha.jpg": "/wcl/static/media/Anuj Prakash Kushwaha.1621b9994d5cfe210d1e.jpg",
-    "static/media/slideshow-6.png": "/wcl/static/media/slideshow-6.f3b5f1e90344b949752b.png",
     "static/media/research-area-4.jpg": "/wcl/static/media/research-area-4.a366ea0fde0d7c8902c4.jpg",
     "static/media/Arushi Arnav.jpg": "/wcl/static/media/Arushi Arnav.67ded3bc73c61f1ca594.jpg",
     "static/media/research-area-1.jpg": "/wcl/static/media/research-area-1.dcafadda92d6f24894e3.jpg",
@@ -65,11 +63,11 @@
     "static/media/linkedin.jpg": "/wcl/static/media/linkedin.b5d68f79752cf27019dc.jpg",
     "static/media/research-gate.jpg": "/wcl/static/media/research-gate.d57d95402c7a0834c498.jpg",
     "index.html": "/wcl/index.html",
-    "main.6cacac87.css.map": "/wcl/static/css/main.6cacac87.css.map",
-    "main.36f0070b.js.map": "/wcl/static/js/main.36f0070b.js.map"
+    "main.42fd1b8f.css.map": "/wcl/static/css/main.42fd1b8f.css.map",
+    "main.32ad781b.js.map": "/wcl/static/js/main.32ad781b.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cacac87.css",
-    "static/js/main.36f0070b.js"
+    "static/css/main.42fd1b8f.css",
+    "static/js/main.32ad781b.js"
   ]
 }
