@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/wcl/static/css/main.53f5b1d7.css",
-    "main.js": "/wcl/static/js/main.847f22e1.js",
+    "main.css": "/wcl/static/css/main.01211fe4.css",
+    "main.js": "/wcl/static/js/main.e44231c7.js",
+    "static/media/LabMembers.png": "/wcl/static/media/LabMembers.aee671f78bcec27280d8.png",
     "static/media/empty.gif": "/wcl/static/media/empty.892e3c962daac6591a52.gif",
     "static/media/banner-1.png": "/wcl/static/media/banner-1.5e90ff12b0a8b2e883dc.png",
     "static/media/slideshow-7.png": "/wcl/static/media/slideshow-7.2164cc98a33e1e2bdce2.png",
@@ -73,11 +74,11 @@
     "static/media/Ashwani Rai.jpg": "/wcl/static/media/Ashwani Rai.59d821e868dab92918c6.jpg",
     "static/media/Akarsh Asoka.jpg": "/wcl/static/media/Akarsh Asoka.678c38d63dea5ca3d454.jpg",
     "index.html": "/wcl/index.html",
-    "main.53f5b1d7.css.map": "/wcl/static/css/main.53f5b1d7.css.map",
-    "main.847f22e1.js.map": "/wcl/static/js/main.847f22e1.js.map"
+    "main.01211fe4.css.map": "/wcl/static/css/main.01211fe4.css.map",
+    "main.e44231c7.js.map": "/wcl/static/js/main.e44231c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.53f5b1d7.css",
-    "static/js/main.847f22e1.js"
+    "static/css/main.01211fe4.css",
+    "static/js/main.e44231c7.js"
   ]
 }
