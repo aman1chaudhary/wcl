@@ -1,10 +1,13 @@
 {
   "files": {
     "main.css": "/wcl/static/css/main.d9c529dd.css",
-    "main.js": "/wcl/static/js/main.15dbc472.js",
+    "main.js": "/wcl/static/js/main.1620c411.js",
     "static/media/empty.gif": "/wcl/static/media/empty.892e3c962daac6591a52.gif",
     "static/media/banner-1.png": "/wcl/static/media/banner-1.5e90ff12b0a8b2e883dc.png",
     "static/media/LabMembers.png": "/wcl/static/media/LabMembers.4843b96ab60ed0a83eda.png",
+    "static/media/slideshow-14.png": "/wcl/static/media/slideshow-14.454d7e9b63ff841f05aa.png",
+    "static/media/slideshow-10.png": "/wcl/static/media/slideshow-10.742f3b7722ba3ca69b57.png",
+    "static/media/slideshow-11.png": "/wcl/static/media/slideshow-11.0343b95cac210b5bb959.png",
     "static/media/slideshow-7.png": "/wcl/static/media/slideshow-7.2164cc98a33e1e2bdce2.png",
     "static/media/slideshow-1.png": "/wcl/static/media/slideshow-1.249a976384714d1de3a9.png",
     "static/media/slideshow-2.png": "/wcl/static/media/slideshow-2.3195ebc64b370fecf9ca.png",
@@ -14,14 +17,18 @@
     "static/media/Gayathri Vangala.jpg": "/wcl/static/media/Gayathri Vangala.f9a4f13ac000272f4cb7.jpg",
     "static/media/Nanditha.jpg": "/wcl/static/media/Nanditha.f6c0bdd247d2d723062d.jpg",
     "static/media/geoportal-2.jpg": "/wcl/static/media/geoportal-2.409cf2d8a5267011f362.jpg",
+    "static/media/slideshow-3.png": "/wcl/static/media/slideshow-3.4612948d41c3f0461a02.png",
     "static/media/slideshow-5.png": "/wcl/static/media/slideshow-5.9ccfef5a95b3405872a3.png",
     "static/media/data-image-4.jpg": "/wcl/static/media/data-image-4.abcd6fd24490df882dd3.jpg",
+    "static/media/slideshow-8.png": "/wcl/static/media/slideshow-8.f47fce4beded92411a9c.png",
     "static/media/email.jpg": "/wcl/static/media/email.6907a9a4059b623e3c76.jpg",
+    "static/media/slideshow-9.png": "/wcl/static/media/slideshow-9.e9717e5ede332b576392.png",
     "static/media/research-gate.jpg": "/wcl/static/media/research-gate.927cc42289b8552d811d.jpg",
     "static/media/twitter.jpg": "/wcl/static/media/twitter.fbc11e09345745b94ce7.jpg",
     "static/media/slideshow-4.png": "/wcl/static/media/slideshow-4.329a12cd8644e01faf40.png",
     "static/media/data-image-3.jpg": "/wcl/static/media/data-image-3.09ac68b5ee54380c7e0c.jpg",
     "static/media/Anuj Prakash Kushwaha.jpg": "/wcl/static/media/Anuj Prakash Kushwaha.1621b9994d5cfe210d1e.jpg",
+    "static/media/slideshow-12.png": "/wcl/static/media/slideshow-12.248cc0749b26392f2bd9.png",
     "static/media/research-area-4.jpg": "/wcl/static/media/research-area-4.a366ea0fde0d7c8902c4.jpg",
     "static/media/Iqura Malik.jpg": "/wcl/static/media/Iqura Malik.3791926cde298ab1cbbd.jpg",
     "static/media/Arushi Arnav.jpg": "/wcl/static/media/Arushi Arnav.67ded3bc73c61f1ca594.jpg",
@@ -30,6 +37,7 @@
     "static/media/linkedin.jpg": "/wcl/static/media/linkedin.844650628b7dca13dcdf.jpg",
     "static/media/Shanti Shwarup Mahto.jpg": "/wcl/static/media/Shanti Shwarup Mahto.46e284dba1e9d11e865d.jpg",
     "static/media/Aman Chaudhary.jpg": "/wcl/static/media/Aman Chaudhary.0c744c017572c01b3417.jpg",
+    "static/media/slideshow-13.png": "/wcl/static/media/slideshow-13.2b47d1b849d48a2d30fa.png",
     "static/media/Anukesh Krishnankutty Ambika.jpg": "/wcl/static/media/Anukesh Krishnankutty Ambika.76927dd8a89c1e25c195.jpg",
     "static/media/logo.png": "/wcl/static/media/logo.bda0098ba9a4b77c2fa7.png",
     "static/media/data-image-2.jpg": "/wcl/static/media/data-image-2.de6c6404ba73b7190c79.jpg",
@@ -76,10 +84,10 @@
     "static/media/portfolio-link.jpg": "/wcl/static/media/portfolio-link.99b23d92b866ff18ea1a.jpg",
     "index.html": "/wcl/index.html",
     "main.d9c529dd.css.map": "/wcl/static/css/main.d9c529dd.css.map",
-    "main.15dbc472.js.map": "/wcl/static/js/main.15dbc472.js.map"
+    "main.1620c411.js.map": "/wcl/static/js/main.1620c411.js.map"
   },
   "entrypoints": [
     "static/css/main.d9c529dd.css",
-    "static/js/main.15dbc472.js"
+    "static/js/main.1620c411.js"
   ]
 }
