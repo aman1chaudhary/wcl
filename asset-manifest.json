@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wcl/static/css/main.8ad0fe45.css",
-    "main.js": "/wcl/static/js/main.4aedd7a4.js",
+    "main.css": "/wcl/static/css/main.d9c529dd.css",
+    "main.js": "/wcl/static/js/main.15dbc472.js",
     "static/media/empty.gif": "/wcl/static/media/empty.892e3c962daac6591a52.gif",
     "static/media/banner-1.png": "/wcl/static/media/banner-1.5e90ff12b0a8b2e883dc.png",
     "static/media/LabMembers.png": "/wcl/static/media/LabMembers.4843b96ab60ed0a83eda.png",
@@ -75,11 +75,11 @@
     "static/media/Akarsh Asoka.jpg": "/wcl/static/media/Akarsh Asoka.678c38d63dea5ca3d454.jpg",
     "static/media/portfolio-link.jpg": "/wcl/static/media/portfolio-link.99b23d92b866ff18ea1a.jpg",
     "index.html": "/wcl/index.html",
-    "main.8ad0fe45.css.map": "/wcl/static/css/main.8ad0fe45.css.map",
-    "main.4aedd7a4.js.map": "/wcl/static/js/main.4aedd7a4.js.map"
+    "main.d9c529dd.css.map": "/wcl/static/css/main.d9c529dd.css.map",
+    "main.15dbc472.js.map": "/wcl/static/js/main.15dbc472.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ad0fe45.css",
-    "static/js/main.4aedd7a4.js"
+    "static/css/main.d9c529dd.css",
+    "static/js/main.15dbc472.js"
   ]
 }
