@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wcl/static/css/main.3ed89264.css",
+    "main.css": "/wcl/static/css/main.de9fc91c.css",
     "main.js": "/wcl/static/js/main.8ada01c0.js",
     "static/media/empty.gif": "/wcl/static/media/empty.892e3c962daac6591a52.gif",
     "static/media/banner-1.png": "/wcl/static/media/banner-1.5e90ff12b0a8b2e883dc.png",
@@ -83,11 +83,11 @@
     "static/media/Amar Deep Tiwari.jpg": "/wcl/static/media/Amar Deep Tiwari.95f79e76d6e28bb7e0d0.jpg",
     "static/media/portfolio-link.jpg": "/wcl/static/media/portfolio-link.99b23d92b866ff18ea1a.jpg",
     "index.html": "/wcl/index.html",
-    "main.3ed89264.css.map": "/wcl/static/css/main.3ed89264.css.map",
+    "main.de9fc91c.css.map": "/wcl/static/css/main.de9fc91c.css.map",
     "main.8ada01c0.js.map": "/wcl/static/js/main.8ada01c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ed89264.css",
+    "static/css/main.de9fc91c.css",
     "static/js/main.8ada01c0.js"
   ]
 }
